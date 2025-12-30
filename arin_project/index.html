@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Music Recommendation System</title>
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div class="container">
+    <h1>🎵 Music Recommendation System 🎶</h1>
+    <p class="subtitle">Discover songs based on artist, genre, or mood</p>
+
+    <div class="filters">
+      <input
+        type="text"
+        id="artistInput"
+        placeholder="Enter artist name..."
+      />
+
+      <select id="genreSelect">
+        <option value="">Select Genre</option>
+        <option value="Pop">Pop</option>
+        <option value="Rock">Rock</option>
+        <option value="Classical">Classical</option>
+        <option value="Hip-Hop">Hip-Hop</option>
+        <option value="Electronic">Electronic</option>
+      </select>
+
+      <select id="moodSelect">
+        <option value="">Select Mood</option>
+        <option value="Romantic">Romantic</option>
+        <option value="Energetic">Energetic</option>
+        <option value="Sad">Sad</option>
+      </select>
+
+      <div class="btn-group">
+        <button onclick="recommendSongs()">Get Recommendations</button>
+        <button onclick="surpriseMe()">🎲 Surprise Me</button>
+      </div>
+    </div>
+
+    <div id="results" class="results"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

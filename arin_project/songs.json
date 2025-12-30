@@ -1,0 +1,22 @@
+[
+  {"name":"Perfect","artist":"Ed Sheeran","genre":"Pop","mood":"Romantic","link":"https://www.youtube.com/watch?v=2Vv-BfVoq4g"},
+  {"name":"Shape of You","artist":"Ed Sheeran","genre":"Pop","mood":"Energetic","link":"https://www.youtube.com/watch?v=JGwWNGJdvx8"},
+  {"name":"Believer","artist":"Imagine Dragons","genre":"Rock","mood":"Energetic","link":"https://www.youtube.com/watch?v=7wtfhZwyrcc"},
+  {"name":"Thunder","artist":"Imagine Dragons","genre":"Rock","mood":"Energetic","link":"https://www.youtube.com/watch?v=fKopy74weus"},
+  {"name":"Someone Like You","artist":"Adele","genre":"Pop","mood":"Sad","link":"https://www.youtube.com/watch?v=hLQl3WQQoQ0"},
+  {"name":"Rolling in the Deep","artist":"Adele","genre":"Pop","mood":"Energetic","link":"https://www.youtube.com/watch?v=rYEDA3JcQqw"},
+  {"name":"Faded","artist":"Alan Walker","genre":"Electronic","mood":"Sad","link":"https://www.youtube.com/watch?v=60ItHLz5WEA"},
+  {"name":"Alone","artist":"Alan Walker","genre":"Electronic","mood":"Energetic","link":"https://www.youtube.com/watch?v=1-xGerv5FOk"},
+  {"name":"Uptown Funk","artist":"Bruno Mars","genre":"Funk","mood":"Energetic","link":"https://www.youtube.com/watch?v=OPf0YbXqDm0"},
+  {"name":"24K Magic","artist":"Bruno Mars","genre":"Funk","mood":"Romantic","link":"https://www.youtube.com/watch?v=UqyT8IEBkvY"},
+  {"name":"Blinding Lights","artist":"The Weeknd","genre":"Synthwave","mood":"Energetic","link":"https://www.youtube.com/watch?v=fHI8X4OXluQ"},
+  {"name":"Save Your Tears","artist":"The Weeknd","genre":"Synthwave","mood":"Sad","link":"https://www.youtube.com/watch?v=XXYlFuWEuKI"},
+  {"name":"All of Me","artist":"John Legend","genre":"Soul","mood":"Romantic","link":"https://www.youtube.com/watch?v=450p7goxZqg"},
+  {"name":"Ordinary People","artist":"John Legend","genre":"Soul","mood":"Sad","link":"https://www.youtube.com/watch?v=OdW1E-fp75c"},
+  {"name":"Havana","artist":"Camila Cabello","genre":"Pop","mood":"Energetic","link":"https://www.youtube.com/watch?v=HCjNJDNzw8Y"},
+  {"name":"Never Be the Same","artist":"Camila Cabello","genre":"Pop","mood":"Romantic","link":"https://www.youtube.com/watch?v=6fM4I8MPZaw"},
+  {"name":"Thinking Out Loud","artist":"Ed Sheeran","genre":"Pop","mood":"Romantic","link":"https://www.youtube.com/watch?v=lp-EO5I60KA"},
+  {"name":"Bad Guy","artist":"Billie Eilish","genre":"Pop","mood":"Energetic","link":"https://www.youtube.com/watch?v=DyDfgMOUjCI"},
+  {"name":"Lovely","artist":"Billie Eilish","genre":"Pop","mood":"Sad","link":"https://www.youtube.com/watch?v=V1Pl8CzNzCw"},
+  {"name":"Senorita","artist":"Shawn Mendes","genre":"Pop","mood":"Romantic","link":"https://www.youtube.com/watch?v=Pkh8UtuejGw"}
+]
