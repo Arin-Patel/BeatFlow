@@ -50,6 +50,12 @@ Copy code
 5. Queue handles playlist sequencing
 
 ---
+## 📸 Screenshots
+
+![Home Screen](screenshots/home.png)
+![Music Recommendation](screenshots/recommendation.png)
+![surprise view](screenshots/surprise.png)
+
 
 ## 🎯 Learning Outcomes
 - Hands-on implementation of Trees, Stacks, and Queues
